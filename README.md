@@ -8,4 +8,4 @@ http://tvboxme.github.io/Anti-spider
 
 
 # Licence
-under MIT
+under MIT and GPL Licence (last virsion)
